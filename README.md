@@ -6,7 +6,7 @@ This repository documents my attempt to build a reaction-wheel-based robot that 
 
 ## Simulation
 
-The simulation was done in Python using the `control` library. Key aspects include:
+The simulation was done in Python using the `control` library. 
 
 ## Hardware
 
