@@ -10,6 +10,8 @@ The simulation was done in Python using the `control` library. Key aspects inclu
 
 ## Hardware
 
+![Balancing Bot GIF](Media/Schematic.png)
+
 - **Microcontroller**: Teensy 4.1
 - **Sensor**: GY521 (accelerometer + gyroscope)
 - **Current Sensor**: INA219
